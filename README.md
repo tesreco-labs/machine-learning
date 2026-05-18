@@ -1,2 +1,2 @@
-# aiml
-aiml lab practices
+# machinelearning
+Machine Learning lab practices
