@@ -1,0 +1,7 @@
+# Web app
+Flask==3.0.3
+
+# Data processing and machine learning
+numpy==1.26.4
+pandas==2.2.3
+scikit-learn==1.8.0
